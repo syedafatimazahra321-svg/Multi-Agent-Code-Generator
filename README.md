@@ -23,12 +23,12 @@ User Prompt
 
 ## Tech Stack
 
-| Tool | Why |
-|---|---|
-| Python 3.11 | Backend language |
-| FastAPI | API server connecting frontend to agents |
-| Anthropic Claude API | Powers all 4 agents |
-| pytest | Backend test suite |
-| React 18 + Vite | Frontend dashboard |
+Python 3.11
+FastAPI
+Anthropic Claude API
+pytest
+React 18 + Vite
+Tailwind CSS
+Axios
 | Tailwind CSS | Styling |
 | Axios | Frontend to backend requests |
