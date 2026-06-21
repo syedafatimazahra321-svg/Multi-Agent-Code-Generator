@@ -23,12 +23,12 @@ User Prompt
 
 ## Tech Stack
 
-Python 3.11
-FastAPI
-Anthropic Claude API
-pytest
-React 18 + Vite
-Tailwind CSS
-Axios
-| Tailwind CSS | Styling |
-| Axios | Frontend to backend requests |
+   → Python 3.11
+   → FastAPI
+   → Anthropic Claude API
+   → pytest
+   → React 18 + Vite
+   → Tailwind CSS
+   → Axios
+   → Tailwind CSS 
+   → Axios 
